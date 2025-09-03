@@ -6,7 +6,7 @@ import requests
 from datetime import datetime
 
 # BOT TOKEN'ınızı buraya yazın (BotFather'dan aldığınız)
-BOT_TOKEN = "BURAYA_BOT_TOKEN_YAZIN"
+BOT_TOKEN = "8261605357:AAG64gY1ARbTU5J4Aj117vNlxKqWzvY3jwI"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
